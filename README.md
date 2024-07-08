@@ -8,3 +8,4 @@
   
 - Баг-репорты. Пример баг-репорта
 ![image](https://github.com/Nancy2T/metro/assets/110238709/935cb19d-1dad-4d5c-b6f1-f512443d263c)
+![image](https://github.com/Nancy2T/metro/assets/110238709/4ae58f4f-a9ea-47d6-87c9-a55714213a1d)
